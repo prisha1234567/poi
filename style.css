@@ -1,0 +1,12 @@
+h1{
+    font-size: 50px;
+    background-color: lightcoral;
+    color: gold;
+}
+#show-sketch{
+float: right;
+}
+#score,#time{
+float: left;
+font-size: 30px;
+}
